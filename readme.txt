@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a net branch is quick and simple.
 Test --no-ff argument no "fast forward mode"
+Test stash function
